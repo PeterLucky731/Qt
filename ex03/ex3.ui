@@ -42,9 +42,14 @@
      <rect>
       <x>230</x>
       <y>150</y>
-      <width>71</width>
+      <width>211</width>
       <height>16</height>
      </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>12</pointsize>
+     </font>
     </property>
     <property name="text">
      <string>Fatorial</string>
