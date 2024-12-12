@@ -20,11 +20,17 @@
       <x>200</x>
       <y>250</y>
       <width>391</width>
-      <height>31</height>
+      <height>131</height>
      </rect>
+    </property>
+    <property name="acceptDrops">
+     <bool>false</bool>
     </property>
     <property name="text">
      <string>Resultado</string>
+    </property>
+    <property name="wordWrap">
+     <bool>true</bool>
     </property>
    </widget>
    <widget class="QPushButton" name="btn">

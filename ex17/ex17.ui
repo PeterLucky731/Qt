@@ -20,11 +20,14 @@
       <x>220</x>
       <y>270</y>
       <width>391</width>
-      <height>31</height>
+      <height>151</height>
      </rect>
     </property>
     <property name="text">
      <string>Resultado</string>
+    </property>
+    <property name="wordWrap">
+     <bool>true</bool>
     </property>
    </widget>
    <widget class="QPushButton" name="btn">
